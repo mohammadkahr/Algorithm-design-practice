@@ -1,4 +1,4 @@
-# mohammadkahr-Algorithm-design-practice
+# Algorithm-design-practice
   Algorithm design course exercises
 
   Dr.peyman adibi
