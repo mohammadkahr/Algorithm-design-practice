@@ -1,6 +1,8 @@
 # mohammadkahr-Algorithm-design-practice
-Algorithm design course exercises
-Dr.peyman adibi
-2023
+  Algorithm design course exercises
+
+  Dr.peyman adibi
+
+  2023
 
 
